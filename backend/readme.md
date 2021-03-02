@@ -2,9 +2,6 @@
 
 [TOC]
 
-## Introduction
-This repository is the code representation for the udemy course "MERN Stack E-Commerce Mobile App: React Native, Redux, Expo"
-
 ## Run
 
 ### Configure Database Connection String
@@ -78,3 +75,9 @@ To login the user and get the auth token you can use:
 ```
 POST     /api/v1/users/login
 ```
+
+
+#### Users
+Admin1 / admin1@email.com / a1pass
+User1 / user1@email.com / u1pass
+User2 / user2@email.com / u2pass
