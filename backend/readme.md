@@ -76,6 +76,10 @@ To login the user and get the auth token you can use:
 POST     /api/v1/users/login
 ```
 
+####
+Backend API
+https://tovarfasad-test-backend.herokuapp.com
+https://tovarfasad-test-backend.herokuapp.com/api/v1
 
 #### Users
 Admin1 / admin1@email.com / a1pass
