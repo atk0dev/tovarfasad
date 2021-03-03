@@ -81,3 +81,7 @@ POST     /api/v1/users/login
 Admin1 / admin1@email.com / a1pass
 User1 / user1@email.com / u1pass
 User2 / user2@email.com / u2pass
+
+#### Deploy backend to Heroku
+1.  git subtree push --prefix backend heroku master
+2.  heroku logs --tail
