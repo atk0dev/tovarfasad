@@ -1,31 +1,46 @@
 [{
   "_id": {
-    "$oid": "5f1686ffdfa624a0ccf981c8"
+    "$oid": "603e9bc78d182034dce60c48"
   },
   "isAdmin": false,
-  "name": "Lionel Messi",
-  "email": "email.co77777",
-  "passwordHash": "$2a$10$k3NuMOP23VrkUEmIn5uBzuiNZ0.YCOc3uhMAAHBN6zgOtdmLuZSQa",
-  "phone": "700000002",
+  "street": "Street 1",
+  "apartment": "11",
+  "zip": "123",
+  "city": "City 1",
+  "country": "Country 1",
+  "name": "User1",
+  "email": "user1@email.com",
+  "passwordHash": "$2a$10$j37ukQjL6gjetfRDg2vtpuXwTlBRn2RgoeOXQ0h.A/q5f9FCYW9lG",
+  "phone": "123456789",
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f1687e1be2e99a158c08504"
+    "$oid": "603f227cfe23923d98be59b4"
   },
   "isAdmin": false,
-  "name": "Fadi Nouh",
-  "email": "fadinoh@gmail.com",
-  "passwordHash": "$2a$10$cXyRxEWzWFpF1zoeDhKIOORZuhfscZkggvZ/kNjaAxj3I2y8TiRnS",
-  "phone": "702241333",
+  "street": "Street 2",
+  "apartment": "12",
+  "zip": "124",
+  "city": "City 2",
+  "country": "Country 2",
+  "name": "User2",
+  "email": "user2@email.com",
+  "passwordHash": "$2a$10$d9FFQiAD4/5VLeJbTFawlugph.VcnKBg8xSR8c/SRa69zxZCS6o9O",
+  "phone": "123456789",
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f168810be2e99a158c08505"
+    "$oid": "603f22acfe23923d98be59b5"
   },
   "isAdmin": true,
-  "name": "Tiago Pereira",
-  "email": "tiago@gmail.com",
-  "passwordHash": "$2a$10$0TZN47PNyhVml7I7B32xtuvbR04dmiAhRKBUUvNE4kQnFS5zCZNZK",
-  "phone": "7022417777",
+  "street": "Street 3",
+  "apartment": "13",
+  "zip": "130",
+  "city": "City 3",
+  "country": "Country 3",
+  "name": "Admin1",
+  "email": "admin1@email.com",
+  "passwordHash": "$2a$10$Ucl7Eayt1Xqh5IW/BRUj.OteHpisEKF7171MRejqIQx8Q3RJT3e/S",
+  "phone": "123456789",
   "__v": 0
 }]
